@@ -18,8 +18,8 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="body_smartphone.svg"
    inkscape:export-filename="/home/jedi/Dropbox/creative-commons/cc_landing/landing/body_smartphone.png"
-   inkscape:export-xdpi="101.80816"
-   inkscape:export-ydpi="101.80816">
+   inkscape:export-xdpi="112.49428"
+   inkscape:export-ydpi="112.49428">
   <defs
      id="defs3821">
     <filter
@@ -185,9 +185,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="2433.709"
-     inkscape:cy="4425.1038"
+     inkscape:zoom="1.4"
+     inkscape:cx="268.50818"
+     inkscape:cy="57.575339"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -235,7 +235,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
