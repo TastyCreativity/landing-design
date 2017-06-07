@@ -9,18 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="536.22223mm"
-   height="274.10468mm"
-   viewBox="0 0 1900 971.23703"
-   id="svg7089"
+   width="524.93335mm"
+   height="274.50934mm"
+   viewBox="0 0 1860.0001 972.67088"
+   id="svg3496"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="cc_header.svg"
-   inkscape:export-filename="/home/jedi/Dropbox/creative-commons/cc_landing/cc_header.png"
-   inkscape:export-xdpi="71.07431"
-   inkscape:export-ydpi="71.07431">
+   sodipodi:docname="cc_header_desktop.svg">
   <defs
-     id="defs7091">
+     id="defs3498">
     <filter
        id="filter3845-3"
        inkscape:label="Drop Shadow"
@@ -175,23 +172,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="1846.4286"
-     inkscape:cy="468.47567"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1301.2329"
+     inkscape:cy="684.31351"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
      inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
+     inkscape:window-maximized="1" />
   <metadata
-     id="metadata7094">
+     id="metadata3501">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -206,16 +203,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(1955.7143,-29.600847)">
+     transform="translate(1635.7144,-1071.024)">
     <rect
        style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.1378237;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect2987-6-7"
-       width="1899.9999"
-       height="899.4585"
-       x="-1955.7142"
-       y="101.37935" />
+       width="1860"
+       height="923.3797"
+       x="-1635.7142"
+       y="1120.3152" />
     <g
-       transform="matrix(0.75708568,0,0,0.75708568,-1905.5827,204.10952)"
+       transform="matrix(0.74114703,0,0,0.74114703,-1586.6382,1261.4543)"
        id="g5439">
       <path
          sodipodi:nodetypes="csscssssssssssssssssscccc"
@@ -687,19 +684,19 @@
        y="257.13315"
        id="text3795"
        sodipodi:linespacing="125%"
-       transform="matrix(0.83569381,0,0,0.83569381,-1628.4445,208.61043)"><tspan
+       transform="matrix(0.57944572,0,0,0.57944572,-1125.5357,1313.4708)"><tspan
          sodipodi:role="line"
          id="tspan3797"
          x="753.23834"
          y="257.13315" /><tspan
          sodipodi:role="line"
          x="753.23834"
-         y="310.0527"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;fill:#ffffff"
+         y="309.75058"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:38.83021164px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:center;text-anchor:middle;fill:#ffffff"
          id="tspan3823">affiliate in Belarus</tspan><tspan
          sodipodi:role="line"
          x="753.23834"
-         y="358.96289"
+         y="358.28836"
          id="tspan3803" /></text>
     <text
        xml:space="preserve"
@@ -708,32 +705,32 @@
        y="398.47269"
        id="text3809"
        sodipodi:linespacing="125%"
-       transform="matrix(0.89172098,0,0,0.89172098,-1554.1496,57.078129)"><tspan
+       transform="matrix(0.61829333,0,0,0.61829333,-1062.0218,1190.4027)"><tspan
          sodipodi:role="line"
          id="tspan3811"
          x="216.15335"
          y="398.47269"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">creative commons</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:92.99793243px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">creative commons</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.34703445px;line-height:80.00000119%;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"
-       x="-994.6424"
-       y="670.71942"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.02622986px;line-height:80.00000119%;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"
+       x="-686.29187"
+       y="1723.567"
        id="text3841"
        sodipodi:linespacing="80.000001%"><tspan
          sodipodi:role="line"
          id="tspan3843"
-         x="-984.55566"
-         y="670.71942"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1">каб было </tspan><tspan
+         x="-678.79187"
+         y="1723.567"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:80.00000119%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1">каб было </tspan><tspan
          sodipodi:role="line"
-         x="-994.6424"
-         y="702.99707"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:80.00000119%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1"
+         x="-686.29187"
+         y="1747.567"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:80.00000119%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1"
          id="tspan5963">натуральна!</tspan></text>
     <g
        id="g4652"
-       transform="matrix(0.83569381,0,0,0.83569381,-1600.4915,115.01272)">
+       transform="matrix(0.83569381,0,0,0.83569381,-1280.4916,1157.8699)">
       <path
          sodipodi:nodetypes="zssssaz"
          inkscape:connector-curvature="0"
@@ -768,36 +765,22 @@
     <rect
        style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.29107586;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect2987-6-3"
-       width="1900"
-       height="72.566071"
-       x="-1955.7142"
-       y="29.600847" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none"
-       x="-1920.4176"
-       y="77.989334"
-       id="text3230"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3232"
-         x="-1920.4176"
-         y="77.989334"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:32px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#cccccc;fill-opacity:1"><tspan
-   style="fill:#333333;fill-opacity:1"
-   id="tspan3240">фаланстэр     </tspan>меню1  </tspan></text>
+       width="1860"
+       height="60"
+       x="-1635.7142"
+       y="1071.024" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;filter:url(#filter3258)"
-       x="-178.45772"
-       y="77.989334"
+       x="87.542252"
+       y="1110.8464"
        id="text3254"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3256"
-         x="-178.45772"
-         y="77.989334"
-         style="font-weight:normal;font-size:32px;-inkscape-font-specification:'Ubuntu Mono';fill:#f9f9f9">BY  EN</tspan></text>
+         x="87.542252"
+         y="1110.8464"
+         style="font-weight:normal;font-size:22.5px;-inkscape-font-specification:'Ubuntu Mono';fill:#f9f9f9">BY  EN</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.23994827px;line-height:125%;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;filter:url(#filter3845-3)"
@@ -805,11 +788,52 @@
        y="749.13934"
        id="text3841-2"
        sodipodi:linespacing="125%"
-       transform="matrix(0.5083966,0,0,0.5083966,-1382.9681,524.48515)"><tspan
+       transform="matrix(0.5083966,0,0,0.5083966,-1038.9682,1553.3423)"><tspan
          sodipodi:role="line"
          id="tspan3843-7"
          x="581.22778"
          y="749.13934"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffff00;fill-opacity:1">#ccbelarus</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.25678635px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#ffff00;fill-opacity:1">#ccbelarus</tspan></text>
+    <path
+       style="fill:#e0e900;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:2.51157284;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1406.4035,1087.8651 -119.0208,0 0,27.5077 118.7729,0 0,13.1559 21.8269,-21.8268 4.4849,-4.485 -26.3118,-26.3116 z"
+       id="path5297"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.93233871px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"
+       x="-1519.6565"
+       y="1108.2595"
+       id="text3230-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3232-6"
+         x="-1519.6565"
+         y="1108.2595"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24.74587059px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#333333;fill-opacity:1"><tspan
+           style="fill:#333333;fill-opacity:1"
+           id="tspan3240-7">фаланстэр </tspan></tspan></text>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5268"
+       width="29.189678"
+       height="5.2280016"
+       x="-1585.2858"
+       y="1088.8452" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5268-6"
+       width="29.189678"
+       height="5.2280016"
+       x="-1585.2858"
+       y="1098.6041" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5268-2"
+       width="29.189678"
+       height="5.2280016"
+       x="-1585.2858"
+       y="1108.3632" />
   </g>
 </svg>
