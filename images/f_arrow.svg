@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="f_arrow.svg"
-   inkscape:export-filename="/home/jedi/Dropbox/creative-commons/cc_landing/f_arrow.png"
-   inkscape:export-xdpi="51.470139"
-   inkscape:export-ydpi="51.470139">
+   inkscape:export-filename="/home/jedi/Dropbox/creative-commons/cc_landing/images/f_arrow.png"
+   inkscape:export-xdpi="51.450256"
+   inkscape:export-ydpi="51.450256">
   <defs
      id="defs5310" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="180.43165"
-     inkscape:cy="-113.2086"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="196.17408"
+     inkscape:cy="-66.494702"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,11 +66,39 @@
        id="path5297"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:145.56504822px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"
+       x="-1235.6028"
+       y="43.803593"
+       id="text3230-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3232-6"
+         x="-1235.6028"
+         y="43.803593"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:116.452034px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#333333;fill-opacity:1"><tspan
+           style="fill:#333333;fill-opacity:1"
+           id="tspan3240-7">фаланстэр </tspan></tspan></text>
     <path
        style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:11.90194225;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -688.31753,220.50536 -564.02027,0 0,130.35462 562.84577,0 0,62.3435 103.43402,-103.43354 21.25313,-21.25346 -124.68715,-124.68705 z"
-       id="path5297-3"
+       d="m -688.31753,220.50537 -564.02027,0 0,130.35462 562.84577,0 0,62.3435 103.434,-103.43354 21.2531,-21.25346 -124.6871,-124.68705 z"
+       id="path5297-3-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:145.56504822px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"
+       x="-1235.6028"
+       y="317.80399"
+       id="text3230-3-3-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3232-6-6-5"
+         x="-1235.6028"
+         y="317.80399"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:116.452034px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#333333;fill-opacity:1"><tspan
+           style="fill:#333333;fill-opacity:1"
+           id="tspan3240-7-7-6">фаланстэр </tspan></tspan></text>
   </g>
 </svg>
