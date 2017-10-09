@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1366"
+   height="337.58594"
+   viewBox="0 0 1366.0001 337.58593"
+   id="svg3664"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="menu_desktop_2.svg"
+   inkscape:export-filename="/home/svet/Dropbox/creative-commons/cc_landing/landing_2/desktop/menu_desktop_2.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3666">
+    <filter
+       id="filter3258-0"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood3260-62"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3262-6"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3264-1"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset3266-8"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3268-7"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1340.7143"
+     inkscape:cy="171.65003"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3669">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1450,-366.4263)">
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       id="rect2987-6-3-6"
+       width="1366.0001"
+       height="337.5625"
+       x="-1450"
+       y="366.44974" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="-948.91431"
+       y="409.38504"
+       id="text3230-3-27"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3232-6-0"
+         x="-948.91431"
+         y="409.38504"
+         style="font-size:25.00000191px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#cccccc;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">што такое Creative Commons?  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e0e900;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="-944.24438"
+       y="453.15823"
+       id="text3230-3-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3232-6-3"
+         x="-944.24438"
+         y="453.15823"
+         style="font-size:25.00000191px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#e0e900;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">чаму &quot;смачная творчасьць&quot;?  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.00000191px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="-896.44751"
+       y="501.64554"
+       id="text3230-3-56"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3232-6-2"
+         x="-896.44751"
+         y="501.64554"
+         style="font-size:25.00000191px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#333333;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">з кім мы працуем?  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.00000191px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="-949.48584"
+       y="542.52783"
+       id="text3230-3-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3232-6-1"
+         x="-949.48584"
+         y="542.52783"
+         style="font-size:25.00000191px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#333333;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">гісторыя дзейнасці і планы?  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.00000191px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="-876.91431"
+       y="587.67065"
+       id="text3230-3-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3232-6-7"
+         x="-876.91431"
+         y="587.67065"
+         style="font-size:25.00000191px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#333333;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">сертыфікацыя  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.00000191px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="-865.77148"
+       y="629.38501"
+       id="text3230-3-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3232-6-9"
+         x="-865.77148"
+         y="629.38501"
+         style="font-size:25.00000191px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#333333;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">што скачаць  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.00000191px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="-930.62866"
+       y="668.24219"
+       id="text3230-3-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3232-6-6"
+         x="-930.62866"
+         y="668.24219"
+         style="font-size:25.00000191px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#333333;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">далучыцца да каманды</tspan></text>
+    <path
+       style="fill:none;stroke:#e0e900;stroke-width:1.79706514;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -946.4532,460.47178 335.4722,0 0,2.1217"
+       id="path5247"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;filter:url(#filter3258-0);font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="-205.51514"
+       y="402.29861"
+       id="text3254-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3256-2"
+         x="-205.51514"
+         y="402.29861"
+         style="font-size:22.5px;font-weight:normal;fill:#f9f9f9;-inkscape-font-specification:Ubuntu Mono">BY  EN</tspan></text>
+    <path
+       style="fill:#e0e900;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:2.51157284;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1222.4422,379.64188 -119.0208,0 0,27.5077 118.7729,0 0,13.1559 21.8269,-21.8268 4.4849,-4.485 -26.3118,-26.3116 z"
+       id="path5297-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:30.93233871px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="-1335.6953"
+       y="400.03616"
+       id="text3230-3-23"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3232-6-75"
+         x="-1335.6953"
+         y="400.03616"
+         style="font-size:24.74587059px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#333333;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"><tspan
+           style="fill:#333333;fill-opacity:1"
+           id="tspan3240-7-9">фаланстэр </tspan></tspan></text>
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
+       id="rect5268-22"
+       width="29.18968"
+       height="5.2280021"
+       x="-1401.3245"
+       y="380.62186" />
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
+       id="rect5268-6-8"
+       width="29.18968"
+       height="5.2280021"
+       x="-1401.3245"
+       y="390.38089" />
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
+       id="rect5268-2-9"
+       width="29.18968"
+       height="5.2280021"
+       x="-1401.3245"
+       y="400.13992" />
+  </g>
+</svg>
