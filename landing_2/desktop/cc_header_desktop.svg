@@ -14,11 +14,11 @@
    viewBox="0 0 1366.0002 767.99999"
    id="svg3496"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="cc_header_desktop.svg"
-   inkscape:export-filename="/home/svet/Dropbox/creative-commons/cc_landing/landing_2/desktop/cc_header_desktop_2.png"
-   inkscape:export-xdpi="89.999985"
-   inkscape:export-ydpi="89.999985">
+   inkscape:export-filename="/home/jedi/Dropbox/creative-commons/cc_landing/landing_2/desktop/cc_header_desktop.png"
+   inkscape:export-xdpi="89.999992"
+   inkscape:export-ydpi="89.999992">
   <defs
      id="defs3498">
     <filter
@@ -175,9 +175,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="607.3916"
-     inkscape:cy="398.10187"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="471.32346"
+     inkscape:cy="378.756"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -185,8 +185,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -813,15 +813,9 @@
          x="581.22778"
          y="749.13934"
          style="font-size:44.25678635px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffff00;fill-opacity:1;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono">#ccbelarus</tspan></text>
-    <path
-       style="fill:#e0e900;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:2.51157284;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m -1406.4035,1293.8651 -119.0208,0 0,27.5077 118.7729,0 0,13.1559 21.8269,-21.8268 4.4849,-4.485 -26.3118,-26.3116 z"
-       id="path5297"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc" />
     <text
        xml:space="preserve"
-       style="font-size:30.93233871px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.93233871px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"
        x="-1519.6565"
        y="1314.2595"
        id="text3230-3"
@@ -830,9 +824,11 @@
          id="tspan3232-6"
          x="-1519.6565"
          y="1314.2595"
-         style="font-size:24.74587059px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#333333;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"><tspan
-           style="fill:#333333;fill-opacity:1"
-           id="tspan3240-7">фаланстэр </tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.74587059px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans Bold';fill:#333333;fill-opacity:1"><tspan
+   style="fill:#cccccc"
+   id="tspan3489">ліцэнзіі</tspan><tspan
+   style="fill:#e0e900;fill-opacity:1"
+   id="tspan3491">    місія</tspan>    што мы робім    карысна    гісторыя    кантакт </tspan></text>
     <rect
        style="fill:#f2f2f2;fill-opacity:1;stroke:none"
        id="rect5268"
@@ -854,5 +850,11 @@
        height="5.2280016"
        x="-1585.2858"
        y="1314.3632" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#e0e900;stroke-width:2.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -1411.4605,1318.9105 51.0127,0"
+       id="path3493"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
