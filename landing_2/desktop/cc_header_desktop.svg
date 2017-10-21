@@ -176,7 +176,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="471.32346"
+     inkscape:cx="663.44094"
      inkscape:cy="378.756"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -816,43 +816,22 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.93233871px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"
-       x="-1519.6565"
+       x="-1583.6565"
        y="1314.2595"
        id="text3230-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3232-6"
-         x="-1519.6565"
+         x="-1583.6565"
          y="1314.2595"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.74587059px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans Bold';fill:#333333;fill-opacity:1"><tspan
    style="fill:#cccccc"
    id="tspan3489">ліцэнзіі</tspan><tspan
    style="fill:#e0e900;fill-opacity:1"
    id="tspan3491">    місія</tspan>    што мы робім    карысна    гісторыя    кантакт </tspan></text>
-    <rect
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
-       id="rect5268"
-       width="29.189678"
-       height="5.2280016"
-       x="-1585.2858"
-       y="1294.8452" />
-    <rect
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
-       id="rect5268-6"
-       width="29.189678"
-       height="5.2280016"
-       x="-1585.2858"
-       y="1304.6041" />
-    <rect
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none"
-       id="rect5268-2"
-       width="29.189678"
-       height="5.2280016"
-       x="-1585.2858"
-       y="1314.3632" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#e0e900;stroke-width:2.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m -1411.4605,1318.9105 51.0127,0"
+       style="fill:none;fill-rule:evenodd;stroke:#e0e900;stroke-width:2.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1475.4605,1318.9105 51.0127,0"
        id="path3493"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
