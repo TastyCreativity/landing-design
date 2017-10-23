@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="192.00065"
+     inkscape:cx="106.39022"
      inkscape:cy="135.23714"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,7 +62,7 @@
      id="layer1"
      transform="translate(371.27505,-754.36335)">
     <rect
-       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none"
        id="rect5098-7"
        width="400"
        height="163.74799"
@@ -81,13 +81,13 @@
          y="784.4502"
          style="font-size:23.75px;fill:#333333;">карысныя спасылкі</tspan></text>
     <path
-       style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#999999;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 18.808222,767.48153 -25.2732787,0 11.5236314,19.95956 z"
        id="path4152-9-8"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.96631718px;line-height:192.5555706%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.96631718px;line-height:192.5555706%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="-359.78058"
        y="819.43225"
        id="text6161"
@@ -96,38 +96,38 @@
          id="tspan6163"
          x="-359.78058"
          y="819.43225"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:200%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffff00;">Пра арганізацыю Творчых Суполак у Вікіпедыі</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:200%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#333333;">Пра арганізацыю Творчых Суполак у Вікіпедыі</tspan><tspan
          sodipodi:role="line"
          x="-359.78058"
          y="849.43225"
          id="tspan6165"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:200%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffff00;">Даследванне СС і другая частка ў Беларусі</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:200%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#333333;">Даследванне СС і другая частка ў Беларусі</tspan><tspan
          sodipodi:role="line"
          x="-359.78058"
          y="879.43225"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:200%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffff00;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:200%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#333333;"
          id="tspan3582" /></text>
     <path
-       style="fill:#ffff00;fill-rule:evenodd;stroke:#ffff00;stroke-width:0.60217899;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#333333;fill-rule:evenodd;stroke:#333333;stroke-width:0.60217899;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -357.87786,821.37526 327.109613,0"
        id="path6173"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:#ffff00;fill-rule:evenodd;stroke:#ffff00;stroke-width:0.5740661;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#333333;fill-rule:evenodd;stroke:#333333;stroke-width:0.5740661;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -358.95088,852.38569 297.280248,0"
        id="path6173-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:#ffff00;fill-rule:evenodd;stroke:#ffff00;stroke-width:0.5448125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#333333;fill-rule:evenodd;stroke:#333333;stroke-width:0.5448125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -360.21451,882.24985 267.754245,0"
        id="path6173-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="-360.16336"
        y="880.16974"
        id="text3656"
@@ -136,14 +136,14 @@
          id="tspan3658"
          x="-360.16336"
          y="880.16974"
-         style="font-size:15px;line-height:110.00000238%;fill:#ffff00;">Аналітыка: Асноўныя перашкоды </tspan><tspan
+         style="font-size:15px;line-height:110.00000238%;fill:#333333;">Аналітыка: Асноўныя перашкоды </tspan><tspan
          sodipodi:role="line"
          x="-360.16336"
          y="896.66974"
          id="tspan3660"
-         style="font-size:15px;line-height:110.00000238%;fill:#ffff00;">капирайта (+ частка 2)</tspan></text>
+         style="font-size:15px;line-height:110.00000238%;fill:#333333;">капирайта (+ частка 2)</tspan></text>
     <path
-       style="fill:#ffff00;fill-rule:evenodd;stroke:#ffff00;stroke-width:0.4515267;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#333333;fill-rule:evenodd;stroke:#333333;stroke-width:0.4515267;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -360.19529,898.35245 183.91159,0"
        id="path6173-4-3"
        inkscape:connector-curvature="0"

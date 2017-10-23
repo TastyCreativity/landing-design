@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="557.33383"
+     inkscape:cx="73.048116"
      inkscape:cy="764.38043"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,7 +59,7 @@
      id="layer1"
      transform="translate(1707.1429,607.63782)">
     <rect
-       style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.41732287;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1.41732287;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6140"
        width="1900"
        height="1600"
@@ -69,7 +69,7 @@
        inkscape:export-ydpi="62" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:55.85949326px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:55.85949326px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;"
        x="-952.4726"
        y="-487.38574"
        id="text3454-4"
@@ -154,7 +154,7 @@
          y="-72.16069">тут будзе малюнак</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.907938px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.907938px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;"
        x="-1554.6754"
        y="131.81"
        id="text3331-6-8-8"
@@ -163,40 +163,40 @@
          x="-1554.6754"
          y="131.81"
          id="tspan3966-4-2-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#ffff00">Калі няма часу даехаць да Фаланстэра </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#333333;">Калі няма часу даехаць да Фаланстэра </tspan><tspan
          sodipodi:role="line"
          x="-1554.6754"
          y="170.44492"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#ffff00"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#333333;"
          id="tspan5319">і атрымаць паўнаважную кансультацыю, </tspan><tspan
          sodipodi:role="line"
          x="-1554.6754"
          y="209.07985"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#ffff00"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#333333;"
          id="tspan5321">то самае яно - пагартаць разумную кніжку. </tspan><tspan
          sodipodi:role="line"
          x="-1554.6754"
          y="247.71477"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#ffff00"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#333333;"
          id="tspan5324">У дапамогу ўсім творцам  мы выпусцілі </tspan><tspan
          sodipodi:role="line"
          x="-1554.6754"
          y="286.3497"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#ffff00"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#333333;"
          id="tspan5326">спецыяльныя дапаможнікі, дзе дакладна </tspan><tspan
          sodipodi:role="line"
          x="-1554.6754"
          y="324.98462"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#ffff00"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#333333;"
          id="tspan5328">распавялі, якім чынам трэба карыстацца </tspan><tspan
          sodipodi:role="line"
          x="-1554.6754"
          y="363.61954"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#ffff00"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#333333;"
          id="tspan5350">ліцэнзіямі СС. Спампаваць можна тут. </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.907938px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.907938px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;"
        x="-706.18683"
        y="136.73627"
        id="text3331-6-8-8-5"
@@ -205,39 +205,39 @@
          x="-706.18683"
          y="136.73627"
          id="tspan3966-4-2-7-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#ffff00">Падтрымаць дзейнасць Фаланстэра можна </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#333333;">Падтрымаць дзейнасць Фаланстэра можна </tspan><tspan
          sodipodi:role="line"
          x="-706.18683"
          y="175.37119"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#ffff00"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#333333;"
          id="tspan5398">праз данэйт. За гэта вы, акрамя плюсаў у карму, </tspan><tspan
          sodipodi:role="line"
          x="-706.18683"
          y="214.00612"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#ffff00"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#333333;"
          id="tspan5400">атрымаеце прышпільную налепку (мо і не адну), </tspan><tspan
          sodipodi:role="line"
          x="-706.18683"
          y="252.64104"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#ffff00"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#333333;"
          id="tspan5402">якую мы стваралі з прымяненнем усіх правілаў </tspan><tspan
          sodipodi:role="line"
          x="-706.18683"
          y="291.27597"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#ffff00"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#333333;"
          id="tspan5404">ліцэнзій СС. Будзе магчымасць паказаць сябрам </tspan><tspan
          sodipodi:role="line"
          x="-706.18683"
          y="329.91089"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#ffff00"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#333333;"
          id="tspan5406">і нават троху распавесці пра Creative Commons </tspan><tspan
          sodipodi:role="line"
          x="-706.18683"
          y="368.54581"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#ffff00"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#333333;"
          id="tspan5408">- станеце нашым тайным агентам. </tspan></text>
     <rect
-       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none"
        id="rect5098-7"
        width="1605.4072"
        height="415.30096"
@@ -256,7 +256,7 @@
          y="523.31635"
          style="font-size:55.85949326px;fill:#333333">карысныя спасылкі</tspan></text>
     <path
-       style="fill:#4d4d4d;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#999999;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 6.6157143,484.6447 -73.1999003,0 33.3763,57.8096 z"
        id="path4152-9-8"
        inkscape:connector-curvature="0" />
@@ -278,7 +278,7 @@
        width="123.61542" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:200%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:200%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="-1512.8572"
        y="628.93359"
        id="text6161"
@@ -287,31 +287,31 @@
          id="tspan6163"
          x="-1512.8572"
          y="628.93359"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffff00">Пра арганізацыю Творчых Суполак у Вікіпедыі</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#333333;">Пра арганізацыю Творчых Суполак у Вікіпедыі</tspan><tspan
          sodipodi:role="line"
          x="-1512.8572"
          y="708.93359"
          id="tspan6165"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffff00">Даследванне СС і другая частка ў Беларусі</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#333333;">Даследванне СС і другая частка ў Беларусі</tspan><tspan
          sodipodi:role="line"
          x="-1512.8572"
          y="788.93359"
          id="tspan6167"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffff00">Аналітыка: Асноўныя перашкоды капирайта (+ частка 2)</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#333333;">Аналітыка: Асноўныя перашкоды капирайта (+ частка 2)</tspan></text>
     <path
-       style="fill:#ffff00;fill-rule:evenodd;stroke:#ffff00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#333333;fill-rule:evenodd;stroke:#333333;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -1521.2748,636.73187 899.0357,0"
        id="path6173"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:#ffff00;fill-rule:evenodd;stroke:#ffff00;stroke-width:1.91035032;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#333333;fill-rule:evenodd;stroke:#333333;stroke-width:1.91035032;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -1526.3459,713.50352 820.24383,0"
        id="path6173-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:#ffff00;fill-rule:evenodd;stroke:#ffff00;stroke-width:2.17854714;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#333333;fill-rule:evenodd;stroke:#333333;stroke-width:2.17854714;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -1524.3053,794.31572 1066.72107,0"
        id="path6173-4"
        inkscape:connector-curvature="0"
